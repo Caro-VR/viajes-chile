@@ -1,6 +1,6 @@
 body {
     font-family: "Raleway", sans-serif;
-    background: darkcyan;
+    background: black;
     margin: 0;
     padding: 0;
     border: 0;
@@ -17,6 +17,10 @@ nav div a {
 
 .carousel-item {
     width: 100%;
+}
+
+.fondo {
+    background: darkcyan;
 }
 
 .container-card {
